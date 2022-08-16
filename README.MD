@@ -1,5 +1,7 @@
 # Crypto Landingpage.
 It is a basic crypto landing page with a decent look and have many crypto related options.
+# Live link
+[Netlify](https://crypto-landing-page-page.netlify.app/)
 
 # Time.
 It takes 2 hours to complete it.
