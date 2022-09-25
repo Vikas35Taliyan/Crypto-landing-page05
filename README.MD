@@ -1,9 +1,10 @@
-![Project](https://img.shields.io/badge/project-Crypto--landing%20page-yellowgreen)
-![Time](https://img.shields.io/badge/Time-2%20Hour-green)
+![Project](https://img.shields.io/badge/PROJECT-Crypto--landing%20page-yellowgreen)
+![Time](https://img.shields.io/badge/TIME-2%20HOURS-green)
+![Thanks](https://img.shields.io/badge/THANKS-ANURAG%20TIWARI-orange)
 # Live link
 [Netlify](https://crypto-landing-page-page.netlify.app/)
 
-# Technology used.
+# Technology used:
 * HTML
 * CSS
 
