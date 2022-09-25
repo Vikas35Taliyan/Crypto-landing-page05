@@ -1,5 +1,5 @@
-[Project](https://img.shields.io/badge/project-Crypto--landing%20page-yellowgreen)
-[Time](https://img.shields.io/badge/Time-2%20Hour-green)
+![Project](https://img.shields.io/badge/project-Crypto--landing%20page-yellowgreen)
+![Time](https://img.shields.io/badge/Time-2%20Hour-green)
 # Live link
 [Netlify](https://crypto-landing-page-page.netlify.app/)
 
